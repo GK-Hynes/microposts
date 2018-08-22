@@ -1,19 +1,14 @@
 {
   "posts": [
     {
-      "title": "Post One",
-      "body": "This is post One",
+      "title": "Why You Should Learn Web Development",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum felis commodo magna molestie finibus. Praesent id fringilla lacus. Integer rhoncus massa urna, sit amet vehicula justo placerat vel. Mauris condimentum rhoncus nisi, in dictum mi faucibus eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pellentesque turpis turpis, eget iaculis est fermentum a. Sed scelerisque efficitur condimentum. ",
       "id": 1
     },
     {
-      "id": 2,
-      "title": "Post Two",
-      "body": "This is post two"
-    },
-    {
-      "title": "Post Three",
-      "body": "This is post three",
-      "id": 3
+      "title": "Why You Shouldn't Learn Web Development",
+      "body": "Praesent porta turpis sit amet odio accumsan tristique. Praesent suscipit nec lorem eget tincidunt. Donec vitae justo eros. Mauris et nisi pharetra, eleifend orci nec, tincidunt purus. Integer varius arcu at urna lacinia gravida. Nulla ut commodo tortor. Fusce commodo quam nisl, at aliquet mauris finibus id. In sem lectus, pulvinar in lacus vitae, lobortis egestas nisi. Nullam vehicula purus purus. Pellentesque pharetra pellentesque mi non porttitor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. ",
+      "id": 2
     }
   ]
 }
